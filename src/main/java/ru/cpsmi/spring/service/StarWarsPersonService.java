@@ -1,1 +1,1 @@
-package ru.cpsmi.spring.service;import ru.cpsmi.spring.model.Person;public interface StarWarsPersonService {    Person getPerson(String id);    Person getPersonWithRestClient(String id);}
+package ru.cpsmi.spring.service;import ru.cpsmi.spring.model.Person;public interface StarWarsPersonService {    Person getPerson(String id);}
